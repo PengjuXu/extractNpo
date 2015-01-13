@@ -3,6 +3,7 @@ extract pictures from NPO files
 NPO files created by   Windows Phone app  Smart Shoot 
 
 Needs nodejs to run
+Tested on Linux, you can easily edit it to run under other OS.
 
 Usage:
 extractNpo.js  <NPO files>
