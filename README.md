@@ -12,7 +12,3 @@ outputs: jpg files in the same directory  (thumbnail files not output)
 The script uses algorithm similar to Knuth–Morris–Pratt algorithm, but not as sophisticated.
 
 Hope this script helps unlock your precious moments!
-
-I am looking for job. 
-Please help refer.
-http://cn.linkedin.com/in/PengjuXu
